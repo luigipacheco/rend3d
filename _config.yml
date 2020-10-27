@@ -1,9 +1,10 @@
 # Site settings
-title: Lens
-description: Just another fine responsive site template by <a href="http://html5up.net">HTML5 UP</a>
-baseurl: "/lens-jekyll-theme" # the subpath of your site, e.g. /blog
+title: REND3D
+description: Archviz + Digitalization 
+baseurl: "/rend3d" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 author:
+logo: 'assets/images/logo.png'
 
 # Collection settings
 collections:
@@ -11,15 +12,17 @@ collections:
 
 # Social settings
 500px_url:
-facebook_url:
+facebook_url: https://facebook.com/neobrutalstudio
 github_url:
-gitlab_url: https://gitlab.com/u/andrewbanchich
-googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
-instagram_url:
-linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
+gitlab_url:
+googleplus_url:
+instagram_url: https://instagram.com/neobrutalstudio
+linkedin_url:
 pinterest_url:
 slack_url:
-twitter_url: https://twitter.com/andrewbanchich
+twitter_url:
 
 # Build settings
 markdown: kramdown
+
+theme: jekyll-theme-slate
