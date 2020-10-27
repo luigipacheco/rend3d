@@ -1,6 +1,6 @@
 # Site settings
 title: REND3D
-description: Archviz + Digitalization 
+description: Archviz + Digitalization
 baseurl: "/rend3d" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 author:
@@ -12,7 +12,7 @@ collections:
 
 # Social settings
 500px_url:
-facebook_url: https://facebook.com/neobrutalstudio
+facebook_url: https://facebook.com/rend3dart
 github_url:
 gitlab_url:
 googleplus_url:
