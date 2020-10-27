@@ -1,6 +1,6 @@
 ---
-title: Habitant tristique senectus
-image: assets/images/fulls/10.jpg
-thumbnail: assets/images/thumbs/10.jpg
-caption: Vestibulum ante ipsum primis in faucibus orci luctus ac tincidunt dolor.
+title: Library exterior
+image: assets/images/fulls/4.png
+thumbnail: assets/images/thumbs/4.png
+caption: Render for school project.
 ---

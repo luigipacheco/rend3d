@@ -1,6 +1,6 @@
 ---
-title: Gravida quis varius enim
-image: assets/images/fulls/08.jpg
-thumbnail: assets/images/thumbs/08.jpg
-caption: Nunc egestas congue lorem. Nullam dictum placerat ex sapien tortor mattis.
+title: Library balcony
+image: assets/images/fulls/3.png
+thumbnail: assets/images/fulls/3.png
+caption: Render for school project.
 ---

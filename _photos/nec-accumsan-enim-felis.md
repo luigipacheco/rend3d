@@ -1,6 +1,6 @@
 ---
-title: Nec accumsan enim felis
-image: assets/images/fulls/03.jpg
-thumbnail: assets/images/thumbs/03.jpg
-caption: Maecenas eleifend tellus ut turpis eleifend, vitae pretium faucibus.
+title: Pallet shade
+image: assets/images/fulls/7.png
+thumbnail: assets/images/fulls/7.png
+caption: Render + Photoshop for school project.
 ---

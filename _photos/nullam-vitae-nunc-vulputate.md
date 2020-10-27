@@ -1,6 +1,6 @@
 ---
-title: Nullam vitae nunc vulputate
-image: assets/images/fulls/05.jpg
-thumbnail: assets/images/thumbs/05.jpg
-caption: In pellentesque cursus velit id posuere. Donec vehicula nulla.
+title: Auditorium entrance exterior
+image: assets/images/fulls/8.png
+thumbnail: assets/images/fulls/8.png
+caption: Render for school project.
 ---
