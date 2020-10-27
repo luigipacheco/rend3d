@@ -1,6 +1,6 @@
 ---
 title: Farnsworth house
-image: assets/images/fulls/6.png
-thumbnail: assets/images/fulls/6.png
+image: assets/images/fulls/6.jpg
+thumbnail: assets/images/fulls/6.jpg
 caption: NPR experiment
 ---
